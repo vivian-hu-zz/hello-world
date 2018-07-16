@@ -1,2 +1,2 @@
 # hello-world
-Vivian Hu's helow world to GitHub
+Vivian Hu's hello world to GitHub
